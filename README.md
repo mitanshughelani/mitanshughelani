@@ -6,7 +6,7 @@ I'm Mitanshu Ghelani, a dedicated Computer Science student at York University wi
 ## Education
 
 * <b>York University</b> (Jan 2023 - April 2026)<br />
- * Honours BSc in Computer Science
+   * Honours BSc in Computer Science
 
 
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
