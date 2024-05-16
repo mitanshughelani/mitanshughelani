@@ -9,6 +9,6 @@ Feel free to reach out for collaboration opportunities, tech discussions, or jus
 <br />
 -->
 
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mitanshughelani.visitorbadge)
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mitanshughelani)
 
 
