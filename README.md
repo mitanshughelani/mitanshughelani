@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+<br />
+<br />
+
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ApurvShh007.ApurvShah007)
+
 <!--
 **mitanshughelani/mitanshughelani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
