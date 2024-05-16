@@ -1,4 +1,5 @@
-# Hi there 👋
+# Hey there!👋
+I'm Mitanshu Ghelani, a dedicated Computer Science student at York University with a strong enthusiasm for innovaation and tackling challenges. Energised by coffee ☕ and driven by curiosity, I'm constantly seeking out new challenges to tackle.
 
 
 ## Let's Connect!🤝
