@@ -17,9 +17,8 @@ I'm Mitanshu Ghelani, a dedicated Computer Science student at York University wi
 
 ## Projects 🛠️
 
-* <b>MemoryBlitz - Competition Winner <b/>
-
-  Dynamic number memorization game developed using HTML/CSS/JS with random number generator, real-time feedback, error detection algorithm and JUnit tested.
+* <b>MemoryBlitz - Competition Winner </b><br />
+Dynamic number memorization game developed using HTML/CSS/JS with random number generator, real-time feedback, error detection algorithm and JUnit tested.
 
 
 ## Let's Connect!🤝
