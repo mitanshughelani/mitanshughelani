@@ -13,9 +13,13 @@ I'm Mitanshu Ghelani, a dedicated Computer Science student at York University wi
 
 <img src="https://camo.githubusercontent.com/f38298638f10774e1f0205a1111dff4a7675c0ed8600356f28e8276c2bab8235/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465" alt="Git" data-canonical-src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/7bb3f61920f7584d80c1f7d5903b7538dd4eaead9c1eaa18dd67ca646eb8e709/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562" alt="GitHub" data-canonical-src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&amp;logo=github" style="max-width: 100%;">
 
-![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
-<br />
-<br />
+
+
+## Projects 🛠️
+
+* MemoryBlitz - Competition Winner
+  Dynamic number memorization game developed using HTML/CSS/JS with random number generator, real-time feedback, error detection algorithm and JUnit tested.
+
 
 ## Let's Connect!🤝
 Feel free to reach out for collaboration opportunities, tech discussions, or just to say hi! 😄. 
