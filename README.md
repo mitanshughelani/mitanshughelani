@@ -20,7 +20,7 @@ I'm Mitanshu Ghelani, a dedicated Computer Science student at York University wi
 * <b>MemoryBlitz - Competition Winner </b><a href="https://github.com/mitanshughelani/MemoryBlitz">🔗</a><br />
 Dynamic number memorization game developed using HTML/CSS/JS with random number generator, real-time feedback, error detection algorithm and JUnit tested.
 
-* <b>MoneyMover: ATM Database System /b<><a href="">🔗</a><br />
+* <b>MoneyMover: ATM Database System </b><a href="">🔗</a><br />
 Developed in Java and MySQL, featuring a user-friendly interface, Object-Oriented Programming principles, and secure data management.
 
 
