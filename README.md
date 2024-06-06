@@ -23,6 +23,9 @@ Dynamic number memorization game developed using HTML/CSS/JS with random number 
 * <b>MoneyMover: ATM Database System </b><a href="https://github.com/mitanshughelani/MoneyMover">🔗</a><br />
 Developed in Java and MySQL, featuring a user-friendly interface, Object-Oriented Programming principles, and secure data management.
 
+* <b>ChatterSwift : Real Time Messaging App </b><a href="https://github.com/mitanshughelani/ChatterSwift">🔗</a><br />
+Experience seamless real-time messaging with our Core Java chatting application, featuring a sleek, intuitive interface built with Swing and AWT, and robust network communication powered by Socket Programming. Stay connected effortlessly with reliable and instant message delivery!
+
 
 ## Let's Connect!🤝
 Feel free to reach out for collaboration opportunities, tech discussions, or just to say hi! 😄. 
