@@ -17,13 +17,13 @@ I'm Mitanshu Ghelani, a dedicated Computer Science student at York University wi
 
 ## Projects 🛠️
 
-* <b>MemoryBlitz - Competition Winner </b><a href="https://github.com/mitanshughelani/MemoryBlitz">🔗</a><br />
+* <b>MemoryBlitz - Competition Winner </b><a href="https://github.com/mitanshughelani/MemoryBlitz" target="_blank">🔗</a><br />
 Dynamic number memorization game developed using HTML/CSS/JS with random number generator, real-time feedback, error detection algorithm and JUnit tested.
 
-* <b>MoneyMover: ATM Database System </b><a href="https://github.com/mitanshughelani/MoneyMover">🔗</a><br />
+* <b>MoneyMover: ATM Database System </b><a href="https://github.com/mitanshughelani/MoneyMover" target="_blank">🔗</a><br />
 Developed in Java and MySQL, featuring a user-friendly interface, Object-Oriented Programming principles, and secure data management.
 
-* <b>ChatterSwift : Real Time Messaging App </b><a href="https://github.com/mitanshughelani/ChatterSwift">🔗</a><br />
+* <b>ChatterSwift : Real Time Messaging App </b><a href="https://github.com/mitanshughelani/ChatterSwift" target="_blank">🔗</a><br />
 Experience seamless real-time messaging with our Core Java chatting application, featuring a sleek, intuitive interface built with Swing and AWT, and robust network communication powered by Socket Programming. Stay connected effortlessly with reliable and instant message delivery!
 
 
